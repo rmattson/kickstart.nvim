@@ -507,7 +507,7 @@ vim.defer_fn(function()
     auto_install = false,
     -- Install languages synchronously (only applied to `ensure_installed`)
     sync_install = false,
-    -- List of parsers to ignore installing
+    -- List of parsers to ignore instLalling
     ignore_install = {},
     -- You can specify additional Treesitter modules here: -- For example: -- playground = {--enable = true,-- },
     modules = {},
